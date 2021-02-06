@@ -12,6 +12,7 @@
 ## Índice
 
 * [Descrição](#descrição)
+* [Features](#features) 
 * [Techs](#techs) 
 * [Design](#design)
   * [Cores](#cores)
@@ -23,6 +24,9 @@
 
 # Descrição
 Página desenvolvida com base nos requisitos do <a href="https://github.com/Lorenalgm/AmazingGraph">desafio</a> oferecido pela <a href="https://devchallenge.now.sh/">DevChallenge</a>.
+
+## Features:
+- [x] Responsividade<br>
 
 # Techs: 
 - HTML
