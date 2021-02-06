@@ -15,7 +15,6 @@
 * [Techs](#techs) 
 * [Design](#design)
   * [Cores](#cores)
-  * [Ícones](#ícones)
   * [Tipo de fonte](#tipo-de-fonte)
 * [Instalação](#instalação)
 * [Links Contato](#links-contato)
