@@ -1,11 +1,7 @@
 <div align="center">
   <h1>AmazingGraph</h1>
-  <p>
-    <img src="./design/desktop-model.png" height="380">
-  </p>
-  <p>
-    <img src="./design/mobile-model.png" height="380">
-  </p> 
+  <img src="./design/desktop-model.png" height="300">
+  <img src="./design/mobile-model.png" height="300"> 
   <h2>
     Landing page para criar gráficos incríveis
   </h2>
