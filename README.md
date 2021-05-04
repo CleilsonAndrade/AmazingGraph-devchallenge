@@ -24,7 +24,7 @@
 * [Licença](#licença)
 
 # Descrição
-Página desenvolvida com base nos requisitos do [desafio](https://github.com/Lorenalgm/AmazingGraph) oferecido pela [DevChallenge](https://devchallenge.now.sh/).
+Página desenvolvida com base nos requisitos do [desafio](https://github.com/Lorenalgm/AmazingGraph) oferecido pela [**DevChallenge**](https://devchallenge.now.sh/).
 
 ## Features:
 - [x] Responsividade<br>
